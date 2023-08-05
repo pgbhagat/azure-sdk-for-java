@@ -41,7 +41,7 @@
     <jjwt.version>0.5.1</jjwt.version>
     <jackson.version>2.7.2</jackson.version>
     <guava.version>20.0</guava.version>
-    <rxjava.version>1.2.4</rxjava.version>
+    <rxjava.version>1.3.8</rxjava.version>
     <junit.version>4.12</junit.version>
   </properties>
 

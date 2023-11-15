@@ -38,8 +38,8 @@
     <azure.annotations.version>1.4.0</azure.annotations.version>
     <commons.io.version>2.4</commons.io.version>
     <commons.codec.version>1.10</commons.codec.version>
-    <jjwt.version>0.5.1</jjwt.version>
-    <jackson.version>2.7.2</jackson.version>
+    <jjwt.version>0.12.0</jjwt.version>
+    <jackson.version>2.7.9.6</jackson.version>
     <guava.version>20.0</guava.version>
     <rxjava.version>1.2.4</rxjava.version>
     <junit.version>4.12</junit.version>

@@ -34,7 +34,7 @@
     <testMode>playback</testMode>
     <playbackServerPort>11080</playbackServerPort>
     <azure.core.version>0.9.8</azure.core.version>
-    <azure.runtime.version>1.2.0</azure.runtime.version>
+    <azure.runtime.version>1.7.14</azure.runtime.version>
     <azure.annotations.version>1.4.0</azure.annotations.version>
     <commons.io.version>2.4</commons.io.version>
     <commons.codec.version>1.10</commons.codec.version>
